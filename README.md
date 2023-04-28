@@ -63,3 +63,10 @@ The source code is password protected and the password is "`1234`".
 
 ## Conclusion
 The Bank Management System using C is a console-based application that allows you to perform banking activities like in a real bank. It has been developed using the `Code::Blocks` IDE with gcc compiler and uses file handling for data storage.
+
+## Contributing
+Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or feedback
+
+## License
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as you see fit.
+
