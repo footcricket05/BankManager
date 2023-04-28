@@ -46,20 +46,20 @@ To run the Bank Management System using C, follow these steps:
 ## Files
 The project contains the following files:
 
-1. Bank Management System.pdf: PDF file containing documentation and instructions for the Bank Management System project.
+1. `Bank Management System.pdf`: PDF file containing documentation and instructions for the Bank Management System project.
 
-2. bank management system.c: The C source code for the Bank Management System project.
+2. `bank management system.c`: The C source code for the Bank Management System project.
 
-3. bank management system.exe: An executable file for the Bank Management System project.
+3. `bank management system.exe`: An executable file for the Bank Management System project.
 
-4. bank management system.o: An object file for the Bank Management System project.
+4. `bank management system.o`: An object file for the Bank Management System project.
 
-5. info.docx: A Microsoft Word document containing additional information about the Bank Management System project.
+5. `info.docx`: A Microsoft Word document containing additional information about the Bank Management System project.
 
 
 
 ## Password
-The source code is password protected and the password is "1234".
+The source code is password protected and the password is "`1234`".
 
 ## Conclusion
 The Bank Management System using C is a console-based application that allows you to perform banking activities like in a real bank. It has been developed using the Code::Blocks IDE with gcc compiler and uses file handling for data storage.
