@@ -2,7 +2,7 @@
 
 ![ss](https://user-images.githubusercontent.com/93007427/154793792-72f134f9-464e-4586-a93f-fc4c115afe8f.jpg)
 
-**Project Description**
+**Project Description** ❓
 
 BankManager is a console-based application that allows you to perform banking activities as you would in a real bank. With this project, you can create a new account, update information of an existing account, view and manage transactions, check the details of an existing account, remove an existing account, and view customers’ list.
 
