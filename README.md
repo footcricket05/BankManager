@@ -1,4 +1,4 @@
-# BankManager: Bank Management System Using C
+# BankManager: Bank Management System Using C 💼💰
 
 ![ss](https://user-images.githubusercontent.com/93007427/154793792-72f134f9-464e-4586-a93f-fc4c115afe8f.jpg)
 
@@ -10,7 +10,7 @@ The project has been developed in C language using the Code::Blocks IDE with the
 
 File handling has been used for almost all functions, including storing data related to new accounts, transactions, editing account information, and viewing account information.
 
-**Features**
+**Features** 🚀
 
 The Bank Management System using C offers the following features:
 
@@ -21,7 +21,7 @@ The Bank Management System using C offers the following features:
 5. Remove an existing account
 6. View the list of customers
 
-**How to Use**
+**How to Use** 📋
 
 To run the Bank Management System using C, follow these steps:
 
@@ -35,7 +35,7 @@ To run the Bank Management System using C, follow these steps:
 
 5. Build and run the project.
 
-**Files**
+**Files** 📁
 
 The project contains the following files:
 
@@ -45,18 +45,18 @@ The project contains the following files:
 4. `bank management system.o`: An object file for the Bank Management System project.
 5. `info.docx`: A Microsoft Word document containing additional information about the Bank Management System project.
 
-**Password**
+**Password** 🔒
 
 The source code is password protected, and the password is "1234".
 
-**Conclusion**
+**Conclusion** 📝
 
 The Bank Management System using C is a console-based application that allows you to perform banking activities as you would in a real bank. It has been developed using the Code::Blocks IDE with the gcc compiler and uses file handling for data storage.
 
-**Contributing**
+**Contributing** 🤝
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or feedback.
 
-**License**
+**License** 📄
 
 This project is licensed under the `MIT License`. Feel free to use, modify, and distribute the code as you see fit.
