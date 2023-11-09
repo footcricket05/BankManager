@@ -47,7 +47,7 @@ The project contains the following files:
 
 **Password** 🔒
 
-The source code is password protected, and the password is "1234".
+The BankManager is password protected, and the password is "1234".
 
 **Conclusion** 📝
 
